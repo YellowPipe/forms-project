@@ -23,11 +23,15 @@ header {
 	margin: 0 auto;
 }
 
-fieldset {
+.field {
 	margin: 10px auto;
 	width: 350px;
 	background: white;
 	border: 1px solid #d6d6c2;
+}
+
+fieldset {
+	border: none;
 }
 
 li {
